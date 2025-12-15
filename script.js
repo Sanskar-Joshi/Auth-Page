@@ -73,7 +73,7 @@ function validateSignupForm() {
   ).value;
 
   if (password !== confirmPassword) {
-    alert("Password do not match");
+    alert("Passwords do not match");
     return false;
   }
 
