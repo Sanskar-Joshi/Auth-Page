@@ -14,10 +14,8 @@ This project is a modern, responsive Authentication Interface featuring both Log
 - **CSS3:** For styling, flexbox/grid layout, and animations.
 - **JavaScript:** For handling the toggle switch events.
 
-## ⚙️ How to Run
-1. Clone the repository or download the ZIP file.
-2. Open `index.html` in any web browser.
-3. Click the "Sign Up" or "Sign In" buttons to see the sliding animation.
+### 🔗 Live Demo
+Check out the live website here: https://sanskar-joshi.github.io/Auth-Page/
 
 ## 👤 Author
 **Sanskar Joshi**
